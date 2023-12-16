@@ -1,11 +1,18 @@
-- ccxt
-- streamlit
-- watchdog
-- plotly
-- pycoingecko
-- glom
-- defillama
-- statsmodels
-- pandas_ta
-- sqlalchemy
-- pyyaml
+streamlit
+watchdog
+plotly
+pycoingecko
+glom
+defillama
+statsmodels
+pandas_ta==0.3.14b
+pyyaml
+commlib-py
+jupyter
+optuna
+optuna-dashboard
+pathlib
+streamlit-ace
+st-pages
+streamlit-elements==0.1.*
+streamlit-authenticator
